@@ -20,7 +20,7 @@ public class LoanPaymentSchedule {
 	    input.close();
 
 	    double monthlyInterestRate = annualInterestRate / 1200;
-	    
+	    int dummyOctVariable = null;
 
 	    // Compute mortgage
 	   /* double monthlyPayment = monthlyPayment(loanAmount, numberOfYears,
